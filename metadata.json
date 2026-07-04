@@ -1,0 +1,6 @@
+{
+  "name": "Noticias al Día",
+  "description": "Aplicación de noticias en tiempo real con IA, búsqueda inteligente mediante Google Search, recomendaciones personalizadas y guardado de artículos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
