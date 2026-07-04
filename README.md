@@ -1,1 +1,1 @@
-A Open-Source news system with AI functions.
+A Open-Source news system with AI functions, with recomendations.
